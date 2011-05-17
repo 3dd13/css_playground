@@ -1,0 +1,44 @@
+html {
+	height:     100%;
+}
+
+body {
+	margin:     0 auto;
+	text-align: center;
+	
+	background-color: #1874CD;
+  background: url(images/linear_bg_2.png);
+  background: -moz-linear-gradient(100% 100% 90deg, #08449D, #1874CD);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1874CD), to(#08449D));
+
+	color: #BFEFFF;	
+  font: normal normal normal 1em Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-weight: bold;
+}
+
+#header h1 {
+	font-size: 2em;
+}
+
+#header {
+	font-size: 1.8em;
+}
+
+#content {
+	font-size: 1.5em;
+  height: 500px;
+}
+
+#footer {
+	font-size: 1.4em;	
+}
+
+div.panel {
+	margin: 50px 100px;
+  padding: 10px 0px 20px 0px;
+
+  border: 5px solid #BFEFFF;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
