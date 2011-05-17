@@ -1,0 +1,18 @@
+html {
+	height: 100%;
+	margin: 0px;
+}
+
+body {
+	font: normal normal normal 3em Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-weight: bold;
+  background-image: url('../images/stripe_background.png');
+}
+
+/*a {
+	text-decoration: none;
+}
+*/
+li {
+	list-style: none;
+}
